@@ -1,0 +1,12 @@
+[package]
+disabled = true
+[aws]
+disabled = true
+[kubernetes]
+disabled = false
+[conda]
+disabled = true
+[git_branch]
+symbol = "🌱 "
+truncation_length = 8
+truncation_symbol = ""
